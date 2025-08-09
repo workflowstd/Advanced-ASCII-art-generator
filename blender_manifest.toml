@@ -4,7 +4,7 @@ id = "advanced_ascii_art_generator"
 version = "1.1.2"
 name = "Advanced ASCII Art Generator"
 tagline = "Convert 3D scenes to customizable ASCII art"
-maintainer = "reinterpret_cast"
+maintainer = "workflow std"
 type = "add-on"
 
 website = "https://t.me/telllmewhatt"
