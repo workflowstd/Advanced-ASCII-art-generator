@@ -49,6 +49,4 @@ Thanks for installing advanced ascii art generator
 by workflow std
 (xmm0 - telegram https://t.me/telllmewhatt)
 
-
-
-
+btc - bc1q0f5k89z2fn8wretjqmlj5h6qmaakm4wwrpa4sh
