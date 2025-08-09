@@ -3,6 +3,16 @@
 ## Overview
 Blender addon for converting Eevee renders to ASCII art. Requires **Pillow** library for image processing. 
 
+## Preview
+### Before
+<img width="600" height="600" alt="Untitled" src="https://github.com/user-attachments/assets/9a5858ba-d050-418d-b66b-95e2aa4a8268" />
+
+### After
+<img width="600" height="600" alt="ascii_art" src="https://github.com/user-attachments/assets/55c22018-fcfa-4568-b7aa-1da59da7428e" />
+
+
+
+
 ## Key Features
 - Converts rendered images to ASCII art
 - Automatic grayscale conversion and resizing
