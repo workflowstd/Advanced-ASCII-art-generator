@@ -44,8 +44,6 @@ except ImportError:
     print("Pillow installed. RESTART BLENDER")
 ```
 
-[DOWNLOAD ADDON](https://github.com/workflowstd/Advanced-ASCII-art-generator/releases/download/Release/advanced_ascii_art_generator.zip)
-
 Thanks for installing advanced ascii art generator 
 
 by workflow std
