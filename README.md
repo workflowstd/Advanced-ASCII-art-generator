@@ -28,7 +28,7 @@ Blender addon for converting Eevee renders to ASCII art. Requires **Pillow** lib
 **Without Pillow:**  
 `ModuleNotFoundError: No module named 'PIL'` will occur
 
-## Installation Script
+## `ModuleNotFoundError: No module named 'PIL'` solution
 ```python
 import bpy
 import subprocess
